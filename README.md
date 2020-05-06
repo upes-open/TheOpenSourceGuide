@@ -9,7 +9,6 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/Nehasingh1300/TheOpenSourceGuide)
 
-<br>
 We at **UPES-OPEN COMMUNITY** believes in share, study, change, and distribute the software to anyone and for any purpose under a license in which the copyright holder.<br>
 
 ## Vision
