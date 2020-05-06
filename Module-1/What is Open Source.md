@@ -1,5 +1,6 @@
 
 ## What is Open Source?
+The term Open Source was adopted initially by Bruce perens,publisher Tim O'Reilly,Linus Torvalds and initiative founded in February  1998 to encorage open Source.
 The term open source describe software that are available with their source code( set of instructions which are working behind ) which have these three folds to-:
 - ***Study:*** User’s are allowed to read and understand the source code. 
 - ***Change:*** User's can  modify the source code according to his/her convenience.
