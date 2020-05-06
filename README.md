@@ -23,7 +23,7 @@ We at ***UPES-OPEN COMMUNITY*** believes in share, study, change, and distribute
 - To provide a platform that minimizes the gap between academy and industry.
 - To enhance extraneous growth of the country through Open Source technologies. 
 
-[Table of Content](#)
+# Table Of Content
   - [Open Source]()
   - [GitHub]()
   - [Hands on Github]()
