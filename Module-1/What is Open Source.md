@@ -11,4 +11,4 @@ The term open source describe software that are available with their source code
 Now you can have all the ingredients of the soup or you can also ask for modification(addition or reduction of ingredients )  according to your taste.
 that's what open source is according to ***Sunil Kumar Sir***.
 "
-## Note: Open Source and freeware both are different
+## Note: Open Source and freeware both are different(ie.Open Source does not mean free)
