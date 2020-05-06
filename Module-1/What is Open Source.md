@@ -13,3 +13,8 @@ Now you can have all the ingredients of the soup or you can also ask for modific
 that's what open source is according to ***Sunil Kumar Sir***.
 "
 ## Note: Open Source and freeware both are different(ie.Open Source does not mean free)
+
+## Why Open Source?<br>
+Nowdays every second company is adopting Open Source and you want to know ***why***<br>
+So, the reson why these companies are adopting Open Source nowdays are as follows-:
+- 
