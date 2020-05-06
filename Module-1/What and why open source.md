@@ -18,5 +18,5 @@ that's what open source is according to ***Sunil Kumar Sir***.
 ## Why Open Source?
 
 Nowdays every second company is adopting Open Source and you want to know why
-So, the reson why these companies are adopting Open Source nowdays are as follows-:
+So, the reason why these companies are adopting Open Source nowdays are as follows-:
 - 
