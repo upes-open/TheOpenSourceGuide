@@ -11,10 +11,10 @@ The term open source describe software that are available with their source code
  "Imagine of a restaurant having a open soup policy.In that restaurant the chef instead of a waiter will come to you with a menu but the menu doesn’t contain only the name of the soup but also the recipe of it.
 Now you can have all the ingredients of the soup or you can also ask for modification(addition or reduction of ingredients )  according to your taste.
 that's what open source is according to ***Sunil Kumar Sir***.
-"
-## Note: Open Source and freeware both are different(ie.Open Source does not mean free)
-
-## Why Open Source?<br>
-Nowdays every second company is adopting Open Source and you want to know ***why***<br>
+"<br>
+***Note: Open Source and freeware both are different(ie.Open Source does not mean free)***
+<hr>
+## Why Open Source?
+Nowdays every second company is adopting Open Source and you want to know why
 So, the reson why these companies are adopting Open Source nowdays are as follows-:
 - 
