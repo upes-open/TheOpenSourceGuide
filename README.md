@@ -1,4 +1,5 @@
 <img src="icon.png" align="right" />
+
 # OpenSourceGuides
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/Nehasingh1300/TheOpenSourceGuide)
 [![License: GNU](https://img.shields.io/badge/License-GNU-orange.svg)](https://github.com/Nehasingh1300/TheOpenSourceGuide/blob/master/LICENSE)
