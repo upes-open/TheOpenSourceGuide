@@ -16,9 +16,18 @@ that's what open source is according to ***Sunil Kumar Sir***.
 "<br>
 ***Note: Open Source and freeware both are different(ie.Open Source does not mean free)***
 <hr><br>
+
 ## What is Open Source Initiative(OSI)?
+The Open Source Initiative (OSI) is founded by 1998. It is a California public benefit corporation.
+It is a non-profit Organization with a purpose to educate regarding the Open Source. It follows a method of software development that ensures power of distributed peer review and transperency of process.
+
 
 ## Why Open Source?
 Nowdays every second company is adopting Open Source and you want to know why
-So, the reason why these companies are adopting Open Source nowdays are as follows-:
+So, the reason why these companies are adopting Open Source because Open Source Promises
+- Higher Quality
+- Better Reliability 
+- Greater Flexibility
+- Lower Cost
+- Vendor Lock-In
 
