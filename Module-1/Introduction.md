@@ -1,6 +1,20 @@
 
-## Open Source
-The term Open Source was adopted initially by Bruce perens,publisher Tim O'Reilly,Linus Torvalds and its initiative(OSI) founded in February  1998 to encorage open Source.
+## History of Open Source
+The term Open Source was adopted initially by Bruce perens,publisher Tim O'Reilly,Linus Torvalds.
+
+***Here is a timeline(reffered from IBM)***
+- 1984-: The Free Software Foundation is formed.
+- 1989-: FSF releases with GPL v1.0.
+- 1991-:Linux first code is released.
+- 1994-:Linux 1.0 is released.
+- 1994-:RedHat and Slackware versions released.
+- 1995-:Work starts on Apache.
+- 1996-:Works starts on KDE.
+- 1997-:"The Cathedral and the Bazaar" is published.
+- 1998-:The term ***Open Source*** is coined.
+- 2001-:Linux 2.4 released.
+
+
 
 ## What is Open Source Software?
 The term open source software used for softwarewhich are available with their source code( set of instructions which are working behind ) which have these three folds to-:
@@ -39,7 +53,7 @@ So, the reason why these companies are adopting Open Source because Open Source 
 - Open Source Software have better security as tested by a large amount of members and more often reviewed.
 - Open Source Software are more reliable.
 
-## Disadvantages of Open Source
+## Issue's related to use of Open Source
 
 ## Some Popular Open Source Software
 
