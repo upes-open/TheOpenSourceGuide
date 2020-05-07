@@ -20,12 +20,5 @@ By Using an Open Source license an Organization agrees to-:
 - Eclipse Public License 2.0 (EPL-2.0)
 <hr>
 
-## Some of the Open Source Licenses in brief are-:
 
-***GNU General Public License***<br>
-
-***BSD License***<br>
-
-***MIT License***<br>
-***Apache License***<br>
 
