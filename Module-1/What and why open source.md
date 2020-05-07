@@ -1,5 +1,5 @@
 
-## What is Open Source?
+## Open Source
 The term Open Source was adopted initially by Bruce perens,publisher Tim O'Reilly,Linus Torvalds and its initiative(OSI) founded in February  1998 to encorage open Source.
 
 ## What is Open Source Software?
