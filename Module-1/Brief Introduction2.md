@@ -7,11 +7,14 @@ By Using an Open Source license an Organization agrees to-:
 - Allow to utlize according to user needs.
 - Allow any one to modify and enhance the Source Code.
 <hr>
-## Open Source Defination(OSD)
 
+## Open Source Defination(OSD)
 An Open Source Defination is a set of criteria's that must be conformed by a license to be considered as Open Source. 
 
+
 ## Distribution Terms of a Ope Source Software
+
+
 - Free Redistribution.
 - Source Code.
 - Derived Works.
@@ -45,6 +48,5 @@ Licenses are compared on the bases of following-:
 - TM Grant
 ***While Comparing a License we Compare Permissions , Conditions , Limitations.***
 
-##
 
 
