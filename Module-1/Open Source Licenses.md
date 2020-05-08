@@ -20,5 +20,17 @@ By Using an Open Source license an Organization agrees to-:
 - Eclipse Public License 2.0 (EPL-2.0)
 <hr>
 
+## License Comparison
+Licenses are compared on the bases of following-:
+- Linking
+- Distribution
+- Modification
+- Patent Grant
+- Private Use
+- Sublcensing
+- TM Grant
+***While Comparing a License we Compare Permissions , Conditions , Limitations.***
+
+##
 
 
