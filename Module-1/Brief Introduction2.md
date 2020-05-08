@@ -7,6 +7,20 @@ By Using an Open Source license an Organization agrees to-:
 - Allow to utlize according to user needs.
 - Allow any one to modify and enhance the Source Code.
 <hr>
+## Open Source Defination(OSD)
+
+An Open Source Defination is a set of criteria's that must be conformed by a license to be considered as Open Source. 
+
+## Distribution Terms of a Ope Source Software
+- Free Redistribution.
+- Source Code.
+- Derived Works.
+- Intergrity of the Author's Source Code.
+- No Discrimination against any person/group.
+- Distribution of License.
+- License Must not specific to a particular product.
+- License must not be a restriction to other softwares.
+- License must be technologically neutral.
 
 ## Some of the Open Source Licenses are as follows-:
 - Apache License 2.0 (Apache-2.0)
