@@ -1,15 +1,19 @@
 # Getting Started
+[![Pictures-from-ProGit](https://img.shields.io/badge/Pictures%20from-ProGit-yellow.svg)](https://git-scm.com/book/en/v2)
 
 ## Version Control
 **Version control** is a system that records changes to a file or set of files over time so that you can recall specific versions later. For eg, facebook it has earlier very less features aas compared to today, and so they used to make chnages to their earlier version so that they do not need to write whole code again.<br>
 
 ## Local Version Control Systems
+<img src="lvcs.PNG" >
 When you copy material from one Operating System to another, this is very basic feature and so it is very tedious and not safe work as your code can be lost or displaced.<br>
 
 ## Centralized Version Control Systems
+<img src="cvcs.PNG" >
 CVS has one server in which everyone push their code. It has advantage over LVCS that developers are aware about the code present in server but if in any condition the server gets down then no one will be able to push or fetch code.<br>
 
 ## Distributed Version Control Systems
+<img src="dvcs.PNG" >
 In DVCS, every clients mirror the repository in their local system, so even if server is lost they do not need central repo. They have their code with them.<br>
 
 ## Git Basics
@@ -19,6 +23,7 @@ In DVCS, every clients mirror the repository in their local system, so even if s
 Git uses a 40-character string composed of hexadecimal characters (0–9 and a–f), which is a called checksum,  SHA-1 hash, whenever you commit any change to git.
 
 ## The Three States
+<img src="threestage.PNG" ><br>
 **Committed** : Data is stored in local database<br>
 **Modified** : Changed file but not committed to data base.<br>
 **Staged** : Pushed your code to current version of your database to next commit snapshot.<br>
