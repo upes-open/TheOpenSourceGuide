@@ -13,7 +13,7 @@ When you create a branch then the pointer is shifted to that branch and from tha
 ```
 git branch branch-name
 ```
-<img src="branching.PNG"> <br>
+<img src="https://github.com/Nehasingh1300/TheOpenSourceGuide/blob/master/Module%202/resources/branching.PNG"> <br>
 Here you can see that the HEAD is still at master after making testing branch , because we have to do implicitly using commands.<br>
 <br>
 But when you check which branch you are working on, it will show **master**. Use the command below to check your branch.
@@ -25,7 +25,7 @@ For going to branch you made, and working init, you will need to **checkout** to
 ```
 git checkout branch-name
 ```
-<img src="checkout1.PNG" ><br>**Checkout** command moves **HEAD** to **testing** branch<br><br>
+<img src="https://github.com/Nehasingh1300/TheOpenSourceGuide/blob/master/Module%202/resources/checkout1.PNG" ><br>**Checkout** command moves **HEAD** to **testing** branch<br><br>
 You can also use the command below to **make and checkout the branch directly**
 ```
 git checkout -b branch-name
@@ -35,7 +35,7 @@ You can make as many branch you want according to the number of developers you h
 git log
 ```
 If you make commit in **master** after making you branch-name (testing), you will find graph like this : 
-<img src="merge1.PNG" >   <br>
+<img src="https://github.com/Nehasingh1300/TheOpenSourceGuide/blob/master/Module%202/resources/merge1.PNG" >   <br>
 
 ## Git Merging 
 You have done your work in branch and now you want to merge it to the master branch, What will you need?<br>
@@ -43,5 +43,5 @@ Here comes **merging** when you move back to master and then merge you branch. I
 ```
 git merge testing
  ```
- <img src="merge2.PNG" ><br>
+ <img src="https://github.com/Nehasingh1300/TheOpenSourceGuide/blob/master/Module%202/resources/merge2.PNG" ><br>
  ***Here they have commited another branch iss53, to master.***
