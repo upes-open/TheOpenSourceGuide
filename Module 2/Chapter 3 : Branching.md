@@ -18,4 +18,18 @@ For going to branch you made, and working init, you will need to **checkout** to
 ```
 git checkout branch-name
 ```
-You can make as many branch you want according to the number of developers you have.
+You can also use the command below to **make and checkout the branch directly**
+```
+git checkout -b branch-name
+```
+You can make as many branch you want according to the number of developers you have. You can also check which **commit has been made in which branch** using :
+```
+git log
+```
+If you make commit in **master** after making you branch-name (testing), you will find graph like this : 
+<img src="">
+
+## Git Merging 
+You have done your work in branch and now you want to merge it to the master branch, What will you need?<br>
+Here comes **merging** when you move back to master and then merge you branch. It's not necessarily that you will want to merge you any branch to master only but you can merge to other branch also. ***You just need to remember is that : you need to checout to the branch into which you want to merge the branch you have created/ worked on***.<br>
+  
