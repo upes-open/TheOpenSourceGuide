@@ -1,4 +1,7 @@
 # Branching
+[![Pictures-from-ProGit](https://img.shields.io/badge/Pictures%20from-ProGit-yellow.svg)](https://git-scm.com/book/en/v2)
+
+
 When you don't want to mess with other's work in the main line of work then you shift a little bit to other path (called branches), where you can work the way without worrying about breaking other's code.
 
 ## Branching in nutshell
