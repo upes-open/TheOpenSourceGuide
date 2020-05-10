@@ -19,7 +19,7 @@ If you have project in GitHub then you need to clone it into your local repo.
  ```
  ## Recording Changes to the Repository
  
- <img src="recodingchanges.PNG" >
+ <img src="https://github.com/Nehasingh1300/TheOpenSourceGuide/blob/master/Module%202/resources/recodingchanges.PNG" >
 Your all changes to your repo are being staged which have been committed. Remember that each file in your working directory can be in one of two states: tracked or untracked. Tracked files are files that were in the last snapshot; they can be unmodified, modified, or staged. Untracked files are everything else – any files in your working directory that were not in your last snapshot and are not in your staging area.
 
 ## Checking the Status of Your Files
