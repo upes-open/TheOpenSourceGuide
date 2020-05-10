@@ -1,4 +1,6 @@
 # Git Basics
+[![Pictures-from-ProGit](https://img.shields.io/badge/Pictures%20from-ProGit-yellow.svg)](https://git-scm.com/book/en/v2)
+
 You can do two things here either you can clone an repo from github if you have accoutn or you can 
 
 ## Initializing a Repository in an Existing Directory
@@ -16,6 +18,8 @@ If you have project in GitHub then you need to clone it into your local repo.
  git clone https://github.com/upes-open/TheOpenSourceGuide
  ```
  ## Recording Changes to the Repository
+ 
+ <img src="recodingchanges.PNG" >
 Your all changes to your repo are being staged which have been committed. Remember that each file in your working directory can be in one of two states: tracked or untracked. Tracked files are files that were in the last snapshot; they can be unmodified, modified, or staged. Untracked files are everything else – any files in your working directory that were not in your last snapshot and are not in your staging area.
 
 ## Checking the Status of Your Files
