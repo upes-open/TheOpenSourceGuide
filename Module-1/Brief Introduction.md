@@ -53,7 +53,7 @@ So, the reason why these companies are adopting Open Source because Open Source 
 - Open Source Software have better security as tested by a large amount of members and more often reviewed.
 - Open Source Software are more reliable.
 
-## Issue's related to use of Open Source
+
 
 ## Some Popular Open Source Software
 
