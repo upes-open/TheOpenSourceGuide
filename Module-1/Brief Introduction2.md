@@ -48,6 +48,13 @@ Licenses are compared on the bases of following-:
 - TM Grant
 ***While Comparing a License we Compare Permissions , Conditions , Limitations.***
 
+## Open Standards
+
+- Open Source Standards developed by ISO.
+- Open Standards are available for all to read and implement.
+- Open Standards give a fair competitive market.
+- Open Standards are free for all to implement
+
 
 
 
