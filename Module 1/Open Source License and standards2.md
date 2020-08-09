@@ -8,11 +8,11 @@ By Using an Open Source license an Organization agrees to-:
 - Allow any one to modify and enhance the Source Code.
 <hr>
 
-## Open Source Defination(OSD)
-An Open Source Defination is a set of criteria's that must be conformed by a license to be considered as Open Source. 
+## Open Source Definition(OSD)
+An Open Source Definition is a set of criteria's that must be conformed by a license to be considered as Open Source. 
 
 
-## Distribution Terms of a Ope Source Software
+## Distribution Terms of a Open Source Software
 
 
 - Free Redistribution.
@@ -46,14 +46,14 @@ Licenses are compared on the bases of following-:
 - Private Use
 - Sublcensing
 - TM Grant
-***While Comparing a License we Compare Permissions , Conditions , Limitations.***
+***While Comparing a License we Compare Permissions , Conditions and Limitations.***
 
 ## Open Standards
 
-- Open Source Standards developed by ISO.
+- Open Source Standards are developed by OASIS(Organization for the Advancement of Structured Information Standards).
 - Open Standards are available for all to read and implement.
-- Open Standards give a fair competitive market.
-- Open Standards are free for all to implement
+- Open Standards give a fair competitive market i.e prevent vendor-lockin.
+- Open Standards are free for all to implement.
 
 
 
